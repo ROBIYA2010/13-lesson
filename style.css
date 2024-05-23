@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: fas;
+}
+h2{ 
+    font-family: fast;
+}
+h3{
+    font-family: girl;
+}
+p { 
+    font-family: shadow;
+}
+@font-face {
+    font-family: fas;
+    src: url(./assets/fonts/Kanit-Black.ttf);
+}
+@font-face {
+    font-family: fast;
+    src: url(./assets/fonts/Kanit-Bold.ttf);
+}
+@font-face {
+    font-family: girl;
+    src: url(./assets/fonts/Kanit-ExtraBoldItalic.ttf);
+}
+@font-face {
+    font-family: shadow;
+    src: url(./assets/fonts/Kanit-Bold.ttf);
+}
